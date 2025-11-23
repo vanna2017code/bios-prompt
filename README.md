@@ -38,7 +38,7 @@ This program mimics the look and feel of entering a BIOS environment, complete w
 
 Run this project instantly in a cloud-based dev environment:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/OWNER/REPO)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/vanna2017code/bios-prompt)
 
 ___
 ## 🖥️ Installation
