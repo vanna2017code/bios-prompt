@@ -34,7 +34,13 @@ This program mimics the look and feel of entering a BIOS environment, complete w
   - Simulated handoff to bootloader after exit.
 
 ---
+## 🚀 Try it in GitHub Codespaces
 
+Run this project instantly in a cloud-based dev environment:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/OWNER/REPO)
+
+___
 ## 🖥️ Installation
 
 1. Clone or download this repository.
